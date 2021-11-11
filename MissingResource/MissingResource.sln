@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingResource", "MissingResource\MissingResource.csproj", "{B9C01E35-C833-4E07-BBD7-E30C3156D8A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageModule", "PageModule\PageModule.csproj", "{7F971DFB-75EF-430B-8540-FFEEAA0CCB59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C01E35-C833-4E07-BBD7-E30C3156D8A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C01E35-C833-4E07-BBD7-E30C3156D8A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C01E35-C833-4E07-BBD7-E30C3156D8A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C01E35-C833-4E07-BBD7-E30C3156D8A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F971DFB-75EF-430B-8540-FFEEAA0CCB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F971DFB-75EF-430B-8540-FFEEAA0CCB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F971DFB-75EF-430B-8540-FFEEAA0CCB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F971DFB-75EF-430B-8540-FFEEAA0CCB59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91236BAA-3F27-4D85-BA73-1BEF1DF4E1E1}
+	EndGlobalSection
+EndGlobal
