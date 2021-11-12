@@ -1,5 +1,6 @@
-﻿@inject OrchardCore.IOrchardHelper OrchardHelper
-@inject OrchardCore.ResourceManagement.IResourceManager ResourceManager
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, OrchardCore.DisplayManagement
+@addTagHelper *, OrchardCore.ResourceManagement
 
 <!doctype html>
 <html lang="en">
@@ -12,6 +13,7 @@
     <resources type="Stylesheet"  />
 </head>
 <body>
+
 
     @RenderBody()
 
